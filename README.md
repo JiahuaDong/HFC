@@ -34,7 +34,7 @@ Data preparation: download and extract ImageNet images from http://image-net.org
 ```
 
 # Experiments
-You should pretrain the backbone ViT-Tiny refer to https://github.com/facebookresearch/mae, then give the the path of model in option.py(--model_path).
+You should pretrain the backbone ViT-B refer to https://github.com/facebookresearch/mae, then give the the path of model in option.py(--model_path).
 ## Training 
 For exampler, if you wangt to run CILformer on CIFAR100 in the 10 steps setting:
 
