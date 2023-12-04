@@ -47,4 +47,17 @@ The results of CILformer will be  written in './traning_log'.
 # Acknowledgement
 Thanks for the great code base from https://github.com/DRSAD/iCaRL and https://github.com/arthurdouillard/dytox.
 
-# Citation
+# Citations
+If you find this code is useful to your research, please consider citing the following paper.
+
+```
+@InProceedings{Dong_2023_ICCV,
+    author    = {Dong, Jiahua and Liang, Wenqi and Cong, Yang and Sun, Gan},
+    title     = {Heterogeneous Forgetting Compensation for Class-Incremental Learning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {11742-11751}
+}
+```
+
