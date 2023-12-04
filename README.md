@@ -1,6 +1,4 @@
-# Our paper
-
-# Installation
+# The PyTorch Implementation Heterogeneous Forgetting Compensation for Class-Incremental Learning
 
 # Requirements
 - torch>=1.7.0
