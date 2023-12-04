@@ -42,7 +42,7 @@ Modify the path of dataset in './scripts/cifar/task10.sh'.
 
 sh scripts/cifar/task10.sh
 ## Results
-The results of CILformer will be  written in './traning_log'.
+The results of HFC will be  written in './traning_log'.
 
 # Acknowledgement
 Thanks for the great code base from https://github.com/DRSAD/iCaRL and https://github.com/arthurdouillard/dytox.
