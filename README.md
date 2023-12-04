@@ -1,7 +1,7 @@
 # The PyTorch Implementation for HFC
 
-## [[ICCV-2023] Heterogeneous Forgetting Compensation for Class-Incremental Learning]([https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.html])
-## [[CVPR-2023] Federated Incremental Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.html)
+## [[CVPR-2023] Heterogeneous Forgetting Compensation for Class-Incremental Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.html)
+
 # Requirements
 - torch>=1.7.0
 - torchvision>=0.8.1
