@@ -16,7 +16,7 @@ def train(args):
     # extractor
     path=args.model_path
     if args.model=='vit_base':
-        feature_extractor=vit_base_patch16_224(args=args)
+        feature_extractor=vit_base_patch16_224(args=args,depth=args.model_depth)
         feature_extractor.load_state_dict(torch.load(path)['model'],strict=False)
     elif args.model=='vit_small':
         feature_extractor=vit_small_patch16_224(depth=args.model_depth)
